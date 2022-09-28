@@ -6,7 +6,7 @@
 
 
   <p>
-<strong>I’m interested in Learning C#</strong>. I would like to eventually learn either C or C++ down the line.
+<strong>I’m interested in Learning C#</strong>.
   </p>
   <p>
 I’m currently learning programming and maths at a sixthform based in Liverpool.
