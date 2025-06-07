@@ -2,9 +2,9 @@
 <head>
 </head>
 <body>
-  <h2>👋 Hi, I’m @ThrilledBaboon, based in Liverpool,England</h2>
+  <h2>👋 Hi, I’m @ThrilledBaboon, based in Liverpool, England</h2>
   <p> <strong>I’m interested in Learning C-based Languages</strong>.</p>
-  <p> I’m currently doing a degree apprentice ship in Manchester </p>
+  <p> I’m currently doing a degree apprenticeship in Manchester </p>
   <h3> Current Projects </h3>
   <ul> 
     <li> Game Studio Website</li>
