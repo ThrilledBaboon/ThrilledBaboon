@@ -11,13 +11,20 @@
   </ul>
   <h3> Future Projects </h3>
   <ul> 
+    <h4> Rhino Games Related Software </h4>
     <li> Web Server </li>
     <li> Stock Management System </li>
     <li> Esports App </li>
+    <h4> Rhino Games Related Games </h4>
     <li> Rogue-like Dungeon Crawler </li>
     <li> Minecraft rip-off </li>
     <li> BattleField rip-off </li>
     <li> League of Legends rip-off </li>
+    <h4> Simulators </h4>
+    <li> Cliff Erosion Simulation </li>
+    <li> Beach Erosion Simulation </li>
+    <li> River Simulation </li>
+    <li> Terrain Simulation </li>
   </ul>
   <h3> My Previous Education</h3>
   <ul> 
